@@ -1,4 +1,3 @@
-**Mongo.db**
 **MongoDB CRUD Assignment**
 **Objective**
 1)User Database Operations
